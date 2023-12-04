@@ -4,9 +4,9 @@
 
 
 
-- 🔭 Eu estou atualmente estudando Front-end .
+- 🔭 Eu estou atualmente estudando Analise e Desenvolvimento de Sistemas.
 - 🌱 Estou aprendendo atualmente HTML, CSS, JS e PYTHON.
-- 💬 Pergunte-me Tudo. 
+- 💬 Buscando evolução. 
 - 📫 Me encontre nas Redes sociais abaixo.
 - 😄 Pronomes: Nos, conosco.
 
@@ -33,7 +33,7 @@
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_red"></a>
   <a href="https://instagram.com/dezinlipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "felipeandre323@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "tecnologiafelipe1202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/AndréFelipe-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
